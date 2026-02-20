@@ -7,6 +7,7 @@
 - [![Reports from automated testing](https://github.com/FPGA-Research/byteman/actions/workflows/test.yml/badge.svg)](https://github.com/FPGA-Research/byteman/actions/workflows/test.yml)
 - [![Browse generated docs](https://github.com/FPGA-Research/byteman/actions/workflows/generateDocs.yml/badge.svg)](https://FPGA-Research.github.io/byteman/)
 
+
 # ![byteman icon](./Resources/icon32.png) Binaries
 - Windows
   - [![Download windows x86 binary](https://github.com/FPGA-Research/byteman/actions/workflows/releaseWindows.yml/badge.svg)](https://raw.githubusercontent.com/FPGA-Research/byteman/main/Binaries/Windows-x86/byteman.exe)
